@@ -1,0 +1,39 @@
+[
+  {
+    "Id": "banana_yellow",
+    "img": "https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1\u0026auto=format\u0026fit=crop\u0026w=658\u0026q=80",
+    "Url": "",
+    "Title": "The Original",
+    "Description": "The classic yellow banana",
+    "Ratings": [
+      1,
+      4,
+      4,
+      0,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "Id": "banana_red",
+    "img": "https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1\u0026auto=format\u0026fit=crop\u0026w=658\u0026q=80",
+    "Url": "",
+    "Title": "Angry Banana",
+    "Description": "Likes Heavy Metal and Monster Energy Drinks",
+    "Ratings": [
+      0,
+      5
+    ]
+  },
+  {
+    "Id": "banana_third",
+    "img": "https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1\u0026auto=format\u0026fit=crop\u0026w=658\u0026q=80",
+    "Url": "",
+    "Title": "Anuther One",
+    "Description": "Probably Just Another Banana",
+    "Ratings": null
+  }
+]
